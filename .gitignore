@@ -1,0 +1,6 @@
+*.yml
+assets
+data
+node_modules
+*-lock.json
+.idea
